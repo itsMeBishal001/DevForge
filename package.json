@@ -1,0 +1,37 @@
+{
+  "name": "devforge",
+  "version": "1.0.0",
+  "description": "DevForge is a full-stack developer collaboration platform built with React, Tailwind CSS, Node.js, Express, and MongoDB. It enables developers and engineers to connect, share knowledge, and collaborate on projects in a structured and scalable way.",
+  "keywords": [
+    "fullstack",
+    "nodejs",
+    "express",
+    "mongodb",
+    "react",
+    "tailwindcss",
+    "rest",
+    "api",
+    "backend",
+    "frontend",
+    "developer",
+    "platform",
+    "open",
+    "source",
+    "scalable",
+    "community",
+    "modern",
+    "ui",
+    "collaboration"
+  ],
+  "license": "ISC",
+  "author": "Bishal Datta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
